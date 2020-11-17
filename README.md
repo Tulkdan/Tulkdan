@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a web developer that loves both the frontend (VueJS and React) and backend (NodeJS).
+
+Sometimes I like to study algorithms and anything that I might find interesting (I'm currently loving Rust).
