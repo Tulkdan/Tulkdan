@@ -12,7 +12,7 @@ Pronous: He/Him
 Location: SP, Brazil
 Frameworks: ReactJS, VueJS, Express, Hapi
 Languages: Javascript, Typescript, Node.js
-Learning: Rust, Deno
+Learning: Rust, Deno, Svelte
 LinkedIn: https://www.linkedin.com/in/pedro-correa-2ba2b0135/
 Email: pedro8correa@gmail.com
 ```
