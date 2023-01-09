@@ -9,9 +9,9 @@ tulkdan@github
 -----------------------------
 Name: Pedro Correa
 Pronous: He/Him
-Location: SP, Brazil
+Location: Campinas, SP, Brazil
 Frameworks: ReactJS, VueJS, Express, Hapi, Serverless
-Testes Frameworks: Jest, Mocha, Chai, Sinon,
+Tests Frameworks: Jest, Mocha, Chai, Sinon,
 Languages: Javascript, Typescript, Node.js
 Learning: Rust, Deno, Haskell
 LinkedIn: https://www.linkedin.com/in/pedro-correa-2ba2b0135/
