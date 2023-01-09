@@ -10,9 +10,10 @@ tulkdan@github
 Name: Pedro Correa
 Pronous: He/Him
 Location: SP, Brazil
-Frameworks: ReactJS, VueJS, Express, Hapi
+Frameworks: ReactJS, VueJS, Express, Hapi, Serverless
+Testes Frameworks: Jest, Mocha, Chai, Sinon,
 Languages: Javascript, Typescript, Node.js
-Learning: Rust, Deno, Svelte
+Learning: Rust, Deno, Haskell
 LinkedIn: https://www.linkedin.com/in/pedro-correa-2ba2b0135/
 Email: pedro8correa@gmail.com
 ```
