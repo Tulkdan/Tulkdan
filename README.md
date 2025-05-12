@@ -12,8 +12,8 @@ Pronous: He/Him
 Location: Campinas, SP, Brazil
 Frameworks: ReactJS, VueJS, Express, Hapi, Serverless
 Tests Frameworks: Jest, Mocha, Chai, Sinon,
-Languages: Javascript, Typescript, Node.js
-Learning: Rust, Deno, Haskell
+Languages: Javascript, Typescript, Node.js, Golang, Deno
+Learning: Gleam
 LinkedIn: https://www.linkedin.com/in/pedro-correa-2ba2b0135/
 Email: pedro8correa@gmail.com
 ```
